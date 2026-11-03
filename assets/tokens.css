@@ -1,7 +1,7 @@
 /* Sani Química — tokens PROTÓTIPO v0.1 (Protótipo da Rede - T.I, 30/10/2026). Paleta PROVISÓRIA extraída do site atual — pendente kit oficial. */
 :root{
 --c-bg-deep:#145a36;--c-band:#1d6e42;--c-green-dark:#23744a;--c-green:#2f8a32;--c-green-text:#23702a;
---c-lime:#8cc63f;--c-lime-text:#95c94a;--c-white:#fff;--c-surface:#f5f8f4;--c-border:#d5e0d3;
+--c-lime:#8cc63f;--c-lime-text:#d2f1a6;--c-white:#fff;--c-surface:#f5f8f4;--c-border:#d5e0d3;
 --c-text:#14231b;--c-text-muted:#4a5a51;--c-on-dark:#e9efec;
 --c-pre:#0b5cad;--c-pre-bg:#e3effb;--c-pos:#7a3e9d;--c-pos-bg:#f2e8f8;
 --c-warn-bg:#fff4c2;--c-warn:#5c4300;--c-focus:#ffbf00;--c-error:#b3261e;--c-success:#1e6b2a;
